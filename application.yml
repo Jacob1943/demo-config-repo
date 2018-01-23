@@ -1,2 +1,4 @@
 info:
   profile: default application
+server:
+  port: 8009
